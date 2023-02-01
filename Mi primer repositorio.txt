@@ -1,3 +1,13 @@
-comando para crear nuevos archivos es - touch "Nombre del archivo"
-Renombrar carpetas o archivos mv "Nombre original" "nombre a cambiar"
-Para abrir un archivo con VS code - code "Nombre del archivo.con extención"
+touch "Nombre del archivo" - comando para crear nuevos archivos 
+
+mv "Nombre original" "nombre a cambiar" - Renombrar carpetas o archivos 
+
+code "Nombre del archivo.con extención" - Para abrir un archivo con VS code
+
+git init - inicia el repositorio Git desde el directorio en el que me encuentro
+
+git add ''- Añade a mi repositorio Git el archivo que se le indique ej: git add 'Mi primer repositorio.txt'
+
+git commit -m '' - Realiza la copia del archivo guarado a mi repositorio Git 
+
+git log - permite ver el autor, coreo, fecha y camtidad de commit echos en un repositorio 
