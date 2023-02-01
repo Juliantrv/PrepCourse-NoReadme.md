@@ -1,0 +1,3 @@
+comando para crear nuevos archivos es - touch "Nombre del archivo"
+Renombrar carpetas o archivos mv "Nombre original" "nombre a cambiar"
+Para abrir un archivo con VS code - code "Nombre del archivo.con extención"
