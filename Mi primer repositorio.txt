@@ -11,3 +11,5 @@ git add ''- Añade a mi repositorio Git el archivo que se le indique ej: git add
 git commit -m '' - Realiza la copia del archivo guarado a mi repositorio Git 
 
 git log - permite ver el autor, coreo, fecha y camtidad de commit echos en un repositorio 
+
+git push origin main - Realiza una cincronizacion de la información que se modifico con la vieja información y ademas es subido al repositorio en GitHub
